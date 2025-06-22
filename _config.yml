@@ -24,7 +24,11 @@ url: https://yosemiteyoga.com.au
 twitter_username: debmetal
 github_username:  devimetal64
 minimal_mistakes_skin: default
-search: true
+search: false
+
+footer:
+atom_feed:
+  hide: true
 
 # Build settings
 markdown: kramdown
